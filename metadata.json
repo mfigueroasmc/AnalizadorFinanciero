@@ -1,0 +1,5 @@
+{
+  "name": "Analizador Financiero Visual",
+  "description": "Una aplicación interactiva para visualizar y analizar datos de hojas de cálculo de ingresos y gastos, generando insights y recomendaciones con IA.",
+  "requestFramePermissions": []
+}
